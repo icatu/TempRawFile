@@ -1,0 +1,4 @@
+# A List
+host-SUFFIX, a1.com, PROXY
+host-SUFFIX, a2.com, PROXY
+host-SUFFIX, common.com, DIRECT
