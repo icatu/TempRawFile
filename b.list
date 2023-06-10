@@ -1,0 +1,4 @@
+# B List
+host-SUFFIX, b1.com, DIRECT
+host-SUFFIX, b2.com, DIRECT
+host-SUFFIX, common.com, DIRECT
